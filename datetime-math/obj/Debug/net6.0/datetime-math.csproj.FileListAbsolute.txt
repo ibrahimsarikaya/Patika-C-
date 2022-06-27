@@ -1,0 +1,15 @@
+C:\Derslerim\datetime-math\bin\Debug\net6.0\datetime-math.exe
+C:\Derslerim\datetime-math\bin\Debug\net6.0\datetime-math.deps.json
+C:\Derslerim\datetime-math\bin\Debug\net6.0\datetime-math.runtimeconfig.json
+C:\Derslerim\datetime-math\bin\Debug\net6.0\datetime-math.dll
+C:\Derslerim\datetime-math\bin\Debug\net6.0\datetime-math.pdb
+C:\Derslerim\datetime-math\obj\Debug\net6.0\datetime-math.csproj.AssemblyReference.cache
+C:\Derslerim\datetime-math\obj\Debug\net6.0\datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\datetime-math\obj\Debug\net6.0\datetime-math.AssemblyInfoInputs.cache
+C:\Derslerim\datetime-math\obj\Debug\net6.0\datetime-math.AssemblyInfo.cs
+C:\Derslerim\datetime-math\obj\Debug\net6.0\datetime-math.csproj.CoreCompileInputs.cache
+C:\Derslerim\datetime-math\obj\Debug\net6.0\datetime-math.dll
+C:\Derslerim\datetime-math\obj\Debug\net6.0\refint\datetime-math.dll
+C:\Derslerim\datetime-math\obj\Debug\net6.0\datetime-math.pdb
+C:\Derslerim\datetime-math\obj\Debug\net6.0\datetime-math.genruntimeconfig.cache
+C:\Derslerim\datetime-math\obj\Debug\net6.0\ref\datetime-math.dll
