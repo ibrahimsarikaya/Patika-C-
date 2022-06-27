@@ -1,0 +1,15 @@
+C:\Derslerim\interface\bin\Debug\net6.0\interface.exe
+C:\Derslerim\interface\bin\Debug\net6.0\interface.deps.json
+C:\Derslerim\interface\bin\Debug\net6.0\interface.runtimeconfig.json
+C:\Derslerim\interface\bin\Debug\net6.0\interface.dll
+C:\Derslerim\interface\bin\Debug\net6.0\interface.pdb
+C:\Derslerim\interface\obj\Debug\net6.0\interface.csproj.AssemblyReference.cache
+C:\Derslerim\interface\obj\Debug\net6.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\interface\obj\Debug\net6.0\interface.AssemblyInfoInputs.cache
+C:\Derslerim\interface\obj\Debug\net6.0\interface.AssemblyInfo.cs
+C:\Derslerim\interface\obj\Debug\net6.0\interface.csproj.CoreCompileInputs.cache
+C:\Derslerim\interface\obj\Debug\net6.0\interface.dll
+C:\Derslerim\interface\obj\Debug\net6.0\refint\interface.dll
+C:\Derslerim\interface\obj\Debug\net6.0\interface.pdb
+C:\Derslerim\interface\obj\Debug\net6.0\interface.genruntimeconfig.cache
+C:\Derslerim\interface\obj\Debug\net6.0\ref\interface.dll
