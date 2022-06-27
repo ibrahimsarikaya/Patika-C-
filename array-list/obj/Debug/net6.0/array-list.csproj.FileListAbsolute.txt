@@ -1,0 +1,15 @@
+C:\Derslerim\array-list\bin\Debug\net6.0\array-list.exe
+C:\Derslerim\array-list\bin\Debug\net6.0\array-list.deps.json
+C:\Derslerim\array-list\bin\Debug\net6.0\array-list.runtimeconfig.json
+C:\Derslerim\array-list\bin\Debug\net6.0\array-list.dll
+C:\Derslerim\array-list\bin\Debug\net6.0\array-list.pdb
+C:\Derslerim\array-list\obj\Debug\net6.0\array-list.csproj.AssemblyReference.cache
+C:\Derslerim\array-list\obj\Debug\net6.0\array-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\array-list\obj\Debug\net6.0\array-list.AssemblyInfoInputs.cache
+C:\Derslerim\array-list\obj\Debug\net6.0\array-list.AssemblyInfo.cs
+C:\Derslerim\array-list\obj\Debug\net6.0\array-list.csproj.CoreCompileInputs.cache
+C:\Derslerim\array-list\obj\Debug\net6.0\array-list.dll
+C:\Derslerim\array-list\obj\Debug\net6.0\refint\array-list.dll
+C:\Derslerim\array-list\obj\Debug\net6.0\array-list.pdb
+C:\Derslerim\array-list\obj\Debug\net6.0\array-list.genruntimeconfig.cache
+C:\Derslerim\array-list\obj\Debug\net6.0\ref\array-list.dll
