@@ -1,0 +1,15 @@
+C:\Derslerim\array-sinifi-methodlar-\bin\Debug\net6.0\array-sinifi-methodlar-.exe
+C:\Derslerim\array-sinifi-methodlar-\bin\Debug\net6.0\array-sinifi-methodlar-.deps.json
+C:\Derslerim\array-sinifi-methodlar-\bin\Debug\net6.0\array-sinifi-methodlar-.runtimeconfig.json
+C:\Derslerim\array-sinifi-methodlar-\bin\Debug\net6.0\array-sinifi-methodlar-.dll
+C:\Derslerim\array-sinifi-methodlar-\bin\Debug\net6.0\array-sinifi-methodlar-.pdb
+C:\Derslerim\array-sinifi-methodlar-\obj\Debug\net6.0\array-sinifi-methodlar-.csproj.AssemblyReference.cache
+C:\Derslerim\array-sinifi-methodlar-\obj\Debug\net6.0\array-sinifi-methodlar-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\array-sinifi-methodlar-\obj\Debug\net6.0\array-sinifi-methodlar-.AssemblyInfoInputs.cache
+C:\Derslerim\array-sinifi-methodlar-\obj\Debug\net6.0\array-sinifi-methodlar-.AssemblyInfo.cs
+C:\Derslerim\array-sinifi-methodlar-\obj\Debug\net6.0\array-sinifi-methodlar-.csproj.CoreCompileInputs.cache
+C:\Derslerim\array-sinifi-methodlar-\obj\Debug\net6.0\array-sinifi-methodlar-.dll
+C:\Derslerim\array-sinifi-methodlar-\obj\Debug\net6.0\refint\array-sinifi-methodlar-.dll
+C:\Derslerim\array-sinifi-methodlar-\obj\Debug\net6.0\array-sinifi-methodlar-.pdb
+C:\Derslerim\array-sinifi-methodlar-\obj\Debug\net6.0\array-sinifi-methodlar-.genruntimeconfig.cache
+C:\Derslerim\array-sinifi-methodlar-\obj\Debug\net6.0\ref\array-sinifi-methodlar-.dll
