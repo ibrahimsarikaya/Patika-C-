@@ -1,0 +1,15 @@
+C:\Derslerim\enum\bin\Debug\net6.0\enum.exe
+C:\Derslerim\enum\bin\Debug\net6.0\enum.deps.json
+C:\Derslerim\enum\bin\Debug\net6.0\enum.runtimeconfig.json
+C:\Derslerim\enum\bin\Debug\net6.0\enum.dll
+C:\Derslerim\enum\bin\Debug\net6.0\enum.pdb
+C:\Derslerim\enum\obj\Debug\net6.0\enum.csproj.AssemblyReference.cache
+C:\Derslerim\enum\obj\Debug\net6.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\enum\obj\Debug\net6.0\enum.AssemblyInfoInputs.cache
+C:\Derslerim\enum\obj\Debug\net6.0\enum.AssemblyInfo.cs
+C:\Derslerim\enum\obj\Debug\net6.0\enum.csproj.CoreCompileInputs.cache
+C:\Derslerim\enum\obj\Debug\net6.0\enum.dll
+C:\Derslerim\enum\obj\Debug\net6.0\refint\enum.dll
+C:\Derslerim\enum\obj\Debug\net6.0\enum.pdb
+C:\Derslerim\enum\obj\Debug\net6.0\enum.genruntimeconfig.cache
+C:\Derslerim\enum\obj\Debug\net6.0\ref\enum.dll
