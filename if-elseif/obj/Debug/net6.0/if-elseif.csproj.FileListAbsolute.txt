@@ -1,0 +1,15 @@
+C:\Derslerim\if-elseif\bin\Debug\net6.0\if-elseif.exe
+C:\Derslerim\if-elseif\bin\Debug\net6.0\if-elseif.deps.json
+C:\Derslerim\if-elseif\bin\Debug\net6.0\if-elseif.runtimeconfig.json
+C:\Derslerim\if-elseif\bin\Debug\net6.0\if-elseif.dll
+C:\Derslerim\if-elseif\bin\Debug\net6.0\if-elseif.pdb
+C:\Derslerim\if-elseif\obj\Debug\net6.0\if-elseif.csproj.AssemblyReference.cache
+C:\Derslerim\if-elseif\obj\Debug\net6.0\if-elseif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\if-elseif\obj\Debug\net6.0\if-elseif.AssemblyInfoInputs.cache
+C:\Derslerim\if-elseif\obj\Debug\net6.0\if-elseif.AssemblyInfo.cs
+C:\Derslerim\if-elseif\obj\Debug\net6.0\if-elseif.csproj.CoreCompileInputs.cache
+C:\Derslerim\if-elseif\obj\Debug\net6.0\if-elseif.dll
+C:\Derslerim\if-elseif\obj\Debug\net6.0\refint\if-elseif.dll
+C:\Derslerim\if-elseif\obj\Debug\net6.0\if-elseif.pdb
+C:\Derslerim\if-elseif\obj\Debug\net6.0\if-elseif.genruntimeconfig.cache
+C:\Derslerim\if-elseif\obj\Debug\net6.0\ref\if-elseif.dll
