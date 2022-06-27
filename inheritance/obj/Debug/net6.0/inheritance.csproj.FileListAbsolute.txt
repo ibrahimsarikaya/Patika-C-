@@ -1,0 +1,15 @@
+C:\Derslerim\inheritance\bin\Debug\net6.0\inheritance.exe
+C:\Derslerim\inheritance\bin\Debug\net6.0\inheritance.deps.json
+C:\Derslerim\inheritance\bin\Debug\net6.0\inheritance.runtimeconfig.json
+C:\Derslerim\inheritance\bin\Debug\net6.0\inheritance.dll
+C:\Derslerim\inheritance\bin\Debug\net6.0\inheritance.pdb
+C:\Derslerim\inheritance\obj\Debug\net6.0\inheritance.csproj.AssemblyReference.cache
+C:\Derslerim\inheritance\obj\Debug\net6.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfoInputs.cache
+C:\Derslerim\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfo.cs
+C:\Derslerim\inheritance\obj\Debug\net6.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Derslerim\inheritance\obj\Debug\net6.0\inheritance.dll
+C:\Derslerim\inheritance\obj\Debug\net6.0\refint\inheritance.dll
+C:\Derslerim\inheritance\obj\Debug\net6.0\inheritance.pdb
+C:\Derslerim\inheritance\obj\Debug\net6.0\inheritance.genruntimeconfig.cache
+C:\Derslerim\inheritance\obj\Debug\net6.0\ref\inheritance.dll
